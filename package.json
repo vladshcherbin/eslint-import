@@ -1,0 +1,11 @@
+{
+  "name": "eslint-import",
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "eslint": "^9.15.0",
+    "eslint-plugin-import-x": "^4.4.2"
+  },
+  "type": "module"
+}
